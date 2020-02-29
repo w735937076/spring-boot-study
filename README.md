@@ -1,4 +1,5 @@
 ## SpringBoot学习
+学习过程中所需要的资料、工具、技术等。
 ## 资料
 SpringBoot参考网页: https://spring.io/guides  
 前端资料: https://spring.io/guides/gs/serving-web-content/
